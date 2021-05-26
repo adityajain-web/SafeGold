@@ -7,7 +7,6 @@ import Gift from './Component/Gift';
 import Delivery from './Component/Delivery';
 import SIP from './Component/SIP';
 import Jewellery from './Component/Jewellery';
-import Error from './Component/Error';
 import Header from './Component/Header';
 
 const App = () => {
