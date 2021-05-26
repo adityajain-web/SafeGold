@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, Route } from 'react-router-dom';
+import { Switch, Route, Redirect } from 'react-router-dom';
 import Home from './Component/Home';
 import Buy from './Component/Buy';
 import Sell from './Component/Sell';
@@ -21,7 +21,7 @@ const App = () => {
       <Route exact path="/Delivery" component={Delivery} />
       <Route exact path="/SIP" component={SIP} />
       <Route exact path="/Jewellery" component={Jewellery} />
-      <Route component={Error} />
+      <Redirect to="/" />
     </Switch>
   </>);
 }
