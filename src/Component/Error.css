@@ -1,0 +1,13 @@
+#ErrorContainer {
+  height: 89vh;
+}
+
+#ErrorContainer img {
+  width: 50%;
+}
+
+@media only screen and (max-width: 576px) {
+  #ErrorContainer img {
+    width: 90%;
+  }
+}

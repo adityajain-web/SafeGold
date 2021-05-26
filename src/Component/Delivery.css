@@ -1,0 +1,11 @@
+#deliveryMain #deliveryMainContainer #upper img {
+  height: 5rem;
+  width: 5rem;
+  filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg)
+    brightness(104%) contrast(97%);
+}
+
+#deliveryMain #deliveryMainContainer #upper h2 {
+  font-weight: 300;
+  line-height: 2.2rem;
+}

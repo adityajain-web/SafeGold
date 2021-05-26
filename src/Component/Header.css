@@ -1,0 +1,28 @@
+.navbar-brand {
+  background: -webkit-linear-gradient(#b8860b, #ecbd47);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.navbar-brand img {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.activePage {
+  color: #b8860b !important;
+  background-color: #f2eee0;
+  border-radius: 1.5rem;
+}
+
+.nav-item .nav-link {
+  font-size: 1.05rem;
+}
+
+.nav-item .nav-link i {
+  display: none;
+}
+
+.nav-item .nav-link.activePage i {
+  display: inline-block;
+}

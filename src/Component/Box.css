@@ -1,0 +1,22 @@
+.box {
+  background-image: linear-gradient(to right, #019a8f, #01bab3);
+}
+
+.homeBoxBtn {
+  background-color: #fff;
+  color: #d2c060;
+}
+
+.boxAction {
+  background-color: #c7dad9;
+  color: #d2c061;
+}
+
+.form-control {
+  font-size: 1.5rem;
+  color: #fff !important;
+}
+
+.form-control::placeholder {
+  color: #c7dad9;
+}

@@ -1,0 +1,33 @@
+#Main {
+  height: 90vh;
+}
+
+#Main img {
+  width: 25%;
+}
+
+.bounce {
+  animation: Bounce 1s ease-in-out infinite alternate-reverse both;
+}
+
+@keyframes Bounce {
+  0% {
+    transform: translateY(5px);
+  }
+
+  100% {
+    transform: translateY(-5px);
+  }
+}
+
+.customBtn {
+  background-color: #00bbb4 !important;
+  color: #fff !important;
+  padding: 1rem !important;
+}
+
+@media only screen and (max-width: 576px) {
+  #Main img {
+    width: 100%;
+  }
+}
