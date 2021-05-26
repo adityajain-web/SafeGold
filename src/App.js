@@ -20,7 +20,7 @@ const App = () => {
       <Route exact path="/Delivery" component={Delivery} />
       <Route exact path="/SIP" component={SIP} />
       <Route exact path="/Jewellery" component={Jewellery} />
-      <Redirect to="/" component={Home} />
+      <Redirect  to="/" component={Home} />
     </Switch>
   </>);
 }
