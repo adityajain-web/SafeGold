@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/SafeGold/static/css/main.0d120559.chunk.css",
+    "main.js": "/SafeGold/static/js/main.8e376cfb.chunk.js",
+    "main.js.map": "/SafeGold/static/js/main.8e376cfb.chunk.js.map",
+    "runtime-main.js": "/SafeGold/static/js/runtime-main.536840d4.js",
+    "runtime-main.js.map": "/SafeGold/static/js/runtime-main.536840d4.js.map",
+    "static/css/2.74c02967.chunk.css": "/SafeGold/static/css/2.74c02967.chunk.css",
+    "static/js/2.ac755752.chunk.js": "/SafeGold/static/js/2.ac755752.chunk.js",
+    "static/js/2.ac755752.chunk.js.map": "/SafeGold/static/js/2.ac755752.chunk.js.map",
+    "index.html": "/SafeGold/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/SafeGold/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.0d120559.chunk.css.map": "/SafeGold/static/css/main.0d120559.chunk.css.map",
+    "static/js/2.ac755752.chunk.js.LICENSE.txt": "/SafeGold/static/js/2.ac755752.chunk.js.LICENSE.txt",
+    "static/media/404.ded87f5c.svg": "/SafeGold/static/media/404.ded87f5c.svg",
+    "static/media/SIP.911d10b0.svg": "/SafeGold/static/media/SIP.911d10b0.svg",
+    "static/media/card payment.be9082e3.svg": "/SafeGold/static/media/card payment.be9082e3.svg",
+    "static/media/cartlane.974a8634.jpg": "/SafeGold/static/media/cartlane.974a8634.jpg",
+    "static/media/coin.ac38dd84.png": "/SafeGold/static/media/coin.ac38dd84.png",
+    "static/media/delivery-truck.1dcc99cc.svg": "/SafeGold/static/media/delivery-truck.1dcc99cc.svg",
+    "static/media/gift.60666aa1.svg": "/SafeGold/static/media/gift.60666aa1.svg",
+    "static/media/globe.00145644.svg": "/SafeGold/static/media/globe.00145644.svg",
+    "static/media/gold-bars.5fdef18b.svg": "/SafeGold/static/media/gold-bars.5fdef18b.svg",
+    "static/media/mpay.91be1db9.svg": "/SafeGold/static/media/mpay.91be1db9.svg",
+    "static/media/order confirm.53b0aa12.svg": "/SafeGold/static/media/order confirm.53b0aa12.svg",
+    "static/media/select.37977cc6.svg": "/SafeGold/static/media/select.37977cc6.svg",
+    "static/media/shop.57c576fc.svg": "/SafeGold/static/media/shop.57c576fc.svg",
+    "static/media/store.38584355.svg": "/SafeGold/static/media/store.38584355.svg",
+    "static/media/tanishq.fd1c756f.png": "/SafeGold/static/media/tanishq.fd1c756f.png",
+    "static/media/visit website.28a53cca.svg": "/SafeGold/static/media/visit website.28a53cca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.536840d4.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.ac755752.chunk.js",
+    "static/css/main.0d120559.chunk.css",
+    "static/js/main.8e376cfb.chunk.js"
+  ]
+}
